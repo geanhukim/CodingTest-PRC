@@ -5,3 +5,4 @@
 * [A02-곱하기 혹은 더하기](https://github.com/geanhukim/ReadyForCodingTest/blob/main/Greedy/A02-%EA%B3%B1%ED%95%98%EA%B8%B0%20%ED%98%B9%EC%9D%80%20%EB%8D%94%ED%95%98%EA%B8%B0.md)
 * [A03-문자열 뒤집기](https://github.com/geanhukim/ReadyForCodingTest/blob/main/Greedy/A03-%EB%AC%B8%EC%9E%90%EC%97%B4%20%EB%92%A4%EC%A7%91%EA%B8%B0.md)
 * [A04!-만들 수 없는 금액](https://github.com/geanhukim/ReadyForCodingTest/blob/main/Greedy/A04!-%EB%A7%8C%EB%93%A4%20%EC%88%98%20%EC%97%86%EB%8A%94%20%EA%B8%88%EC%95%A1.md)
+* [A05-볼링공 고르기](https://github.com/geanhukim/ReadyForCodingTest/blob/main/Greedy/A05-%EB%B3%BC%EB%A7%81%EA%B3%B5%20%EA%B3%A0%EB%A5%B4%EA%B8%B0.md)
